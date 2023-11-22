@@ -7,8 +7,8 @@ function sub(a,b){
 
 // const sub = (a,b)=>{a-b}   //! --not correct way
 
-//! for single export :
-//^ module.export = add;
+//? for single export :
+//? module.export = add;
 
 
 module.exports = {
