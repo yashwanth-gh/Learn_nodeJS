@@ -38,7 +38,7 @@ fs.readFile('./contactAsync.txt',"utf-8",(error,result)=>{
 //? see the stats of a file
 // console.log(fs.statSync('./contact.txt'))
 
-//? make a dir anf files inside it
+//? make a dir and files inside it
 //! delete the newDir and newDir2 before running below commands or error will be thrown
 // fs.mkdirSync('newDir')
 // fs.mkdirSync('newDir2/file.txt',{recursive:true})
