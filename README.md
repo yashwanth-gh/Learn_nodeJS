@@ -4,7 +4,8 @@ Welcome to my Node.js learning repository! In this repository, we will explore v
 
 ## Course followed   
 
-This is the repository for winter training program of [CODING NINJAS]("https://www.codingninjas.com/")
+This is the repository for winter training program of 
+[CODING NINJAS](https://www.codingninjas.com/)
 
 
 ## Topics Covered
