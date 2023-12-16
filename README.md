@@ -2,6 +2,11 @@
 
 Welcome to my Node.js learning repository! In this repository, we will explore various aspects of Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine. This runtime enables developers to run JavaScript on the server side, allowing the creation of powerful server-side applications with JavaScript.
 
+## Course followed   
+
+This is the repository for winter training program of [CODING NINJAS]("https://www.codingninjas.com/")
+
+
 ## Topics Covered
 
 ### 1. Basics of Web
