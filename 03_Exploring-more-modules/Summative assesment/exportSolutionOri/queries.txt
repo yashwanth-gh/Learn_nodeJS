@@ -17,7 +17,3 @@ Message: Hello there!
 Name: yashwanth
 Email: yashwanthbm36@gmail.com
 Message: Hi there!
-
-Name: New User
-Email: yashwanthbm362002@gmail.com
-Message: Test mail
