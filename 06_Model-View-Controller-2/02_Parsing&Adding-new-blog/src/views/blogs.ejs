@@ -1,0 +1,13 @@
+<!-- // Write your code here -->
+<% blogs.forEach(blog=>{ %>
+    <div style="display: flex;margin-top: 25px; max-width: 600px;justify-content: center;align-items: center;background-color: antiquewhite;border:solid 2px brown;border-radius:1rem;padding: 5px 7px;">
+        <div style="margin-right: 25px;">
+            <img src="<%= blog.img%>" alt="blog-image" style="width: 200px;">
+        </div>
+        <div>
+            <h1><%= blog.title %></h1>
+            <p><%= blog.description %></p>
+        </div>
+    </div>
+
+    <% })%>
