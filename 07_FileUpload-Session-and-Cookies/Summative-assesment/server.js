@@ -1,4 +1,5 @@
 import app from "./index.js";
-app.listen(3200, () => {
-  console.log("server is listening on 3200");
+
+app.listen(3000, () => {
+  console.log("app is listening at PORT 3000");
 });
